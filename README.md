@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Adrián, alias reptilAndaluz</h1>
-<h3 align="center">A Junior Developer of a lot of things</h3>
+<h1 align="center">Hola, Soy Adrián, alias reptilAndaluz</h1>
+<h3 align="center">Un desarrollador Junior de varias cosas</h3>
 
 ![banner_github](https://github.com/user-attachments/assets/b14d76c8-424c-4dcb-9740-2bf028bb458d)
 
